@@ -1,0 +1,770 @@
+----------------------------------
+A1.dat Results:
+Sum of result: 10
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 10
+result is: 10 
+----------------------------------
+A2.dat Results:
+Sum of result: 20
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 20
+result is: 20 
+----------------------------------
+A3.dat Results:
+Sum of result: 30
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 30
+result is: 30 
+----------------------------------
+A4.dat Results:
+Sum of result: 40
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 40
+result is: 40 
+----------------------------------
+A5.dat Results:
+Sum of result: 50
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 50
+result is: 50 
+----------------------------------
+A6.dat Results:
+Sum of result: 60
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 60
+result is: 60 
+----------------------------------
+A7.dat Results:
+Sum of result: 70
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 70
+result is: 70 
+----------------------------------
+A8.dat Results:
+Sum of result: 80
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 80
+result is: 80 
+----------------------------------
+A9.dat Results:
+Sum of result: 90
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 90
+result is: 90 
+----------------------------------
+A10.dat Results:
+Sum of result: 100
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 100
+result is: 100 
+----------------------------------
+A11.dat Results:
+Sum of result: 788
+This result is optimal? false
+Difference between T and the sum: 212
+T is: 1000
+result is: 562 119 107 
+----------------------------------
+A12.dat Results:
+Sum of result: 1968
+This result is optimal? false
+Difference between T and the sum: 32
+T is: 2000
+result is: 824 813 331 
+----------------------------------
+A13.dat Results:
+Sum of result: 2858
+This result is optimal? false
+Difference between T and the sum: 142
+T is: 3000
+result is: 885 750 637 495 78 13 
+----------------------------------
+A14.dat Results:
+Sum of result: 3986
+This result is optimal? false
+Difference between T and the sum: 14
+T is: 4000
+result is: 969 951 914 811 341 
+----------------------------------
+A15.dat Results:
+Sum of result: 4984
+This result is optimal? false
+Difference between T and the sum: 16
+T is: 5000
+result is: 971 966 956 931 929 231 
+----------------------------------
+A16.dat Results:
+Sum of result: 6000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 6000
+result is: 989 969 957 907 845 817 486 30 
+----------------------------------
+A17.dat Results:
+Sum of result: 6991
+This result is optimal? false
+Difference between T and the sum: 9
+T is: 7000
+result is: 968 944 870 821 803 800 763 762 251 9 
+----------------------------------
+A18.dat Results:
+Sum of result: 7997
+This result is optimal? false
+Difference between T and the sum: 3
+T is: 8000
+result is: 988 978 960 945 821 790 691 662 637 525 
+----------------------------------
+A19.dat Results:
+Sum of result: 9000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 9000
+result is: 952 943 919 866 823 797 786 712 683 682 661 171 5 
+----------------------------------
+A20.dat Results:
+Sum of result: 9997
+This result is optimal? false
+Difference between T and the sum: 3
+T is: 10000
+result is: 994 966 925 899 874 867 842 832 741 734 721 602 
+----------------------------------
+A21.dat Results:
+Sum of result: 10986
+This result is optimal? false
+Difference between T and the sum: 14
+T is: 11000
+result is: 967 951 937 912 903 902 875 871 863 859 800 772 344 16 14 
+----------------------------------
+A22.dat Results:
+Sum of result: 11995
+This result is optimal? false
+Difference between T and the sum: 5
+T is: 12000
+result is: 946 855 838 804 801 786 780 772 763 750 744 741 740 714 709 252 
+----------------------------------
+A23.dat Results:
+Sum of result: 12998
+This result is optimal? false
+Difference between T and the sum: 2
+T is: 13000
+result is: 993 939 908 902 873 862 861 790 788 787 736 701 699 686 652 641 180 
+----------------------------------
+A24.dat Results:
+Sum of result: 13997
+This result is optimal? false
+Difference between T and the sum: 3
+T is: 14000
+result is: 972 943 923 907 861 854 851 836 813 805 771 755 747 708 679 676 656 239 1 
+----------------------------------
+A25.dat Results:
+Sum of result: 14990
+This result is optimal? false
+Difference between T and the sum: 10
+T is: 15000
+result is: 962 891 830 819 787 766 758 743 734 729 678 677 670 637 607 589 583 569 552 539 535 335 
+----------------------------------
+A26.dat Results:
+Sum of result: 15998
+This result is optimal? false
+Difference between T and the sum: 2
+T is: 16000
+result is: 952 948 942 914 885 869 818 814 812 807 806 804 794 780 762 760 756 746 737 291 1 
+----------------------------------
+A27.dat Results:
+Sum of result: 16994
+This result is optimal? false
+Difference between T and the sum: 6
+T is: 17000
+result is: 998 991 970 946 909 907 906 900 877 869 862 859 853 825 822 819 800 799 789 293 
+----------------------------------
+A28.dat Results:
+Sum of result: 17986
+This result is optimal? false
+Difference between T and the sum: 14
+T is: 18000
+result is: 980 976 970 955 946 941 921 902 894 892 872 853 850 826 810 784 775 754 738 736 595 16 
+----------------------------------
+A29.dat Results:
+Sum of result: 18999
+This result is optimal? false
+Difference between T and the sum: 1
+T is: 19000
+result is: 997 989 981 953 921 884 876 859 852 834 812 800 791 790 785 779 777 776 761 755 754 751 522 
+----------------------------------
+A30.dat Results:
+Sum of result: 19995
+This result is optimal? false
+Difference between T and the sum: 5
+T is: 20000
+result is: 996 977 975 965 963 945 926 892 881 880 877 870 868 861 856 855 853 844 832 831 830 819 397 2 
+----------------------------------
+A31.dat Results:
+Sum of result: 20988
+This result is optimal? false
+Difference between T and the sum: 12
+T is: 21000
+result is: 971 956 955 952 950 934 928 926 912 894 883 882 879 873 869 853 849 845 817 775 771 756 746 744 68 
+----------------------------------
+A32.dat Results:
+Sum of result: 22000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 22000
+result is: 966 962 956 955 916 898 896 895 868 858 844 828 824 808 805 804 800 783 779 729 728 726 700 696 687 656 624 9 
+----------------------------------
+A33.dat Results:
+Sum of result: 22994
+This result is optimal? false
+Difference between T and the sum: 6
+T is: 23000
+result is: 1000 999 982 980 978 946 924 909 891 882 859 852 846 819 807 803 796 756 743 717 708 698 683 670 665 662 640 610 169 
+----------------------------------
+A34.dat Results:
+Sum of result: 23979
+This result is optimal? false
+Difference between T and the sum: 21
+T is: 24000
+result is: 997 989 955 946 939 931 920 915 899 892 877 873 871 868 857 855 850 825 804 798 782 779 775 763 754 743 740 705 74 3 
+----------------------------------
+A35.dat Results:
+Sum of result: 25000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 25000
+result is: 992 986 962 958 954 943 924 923 919 893 891 856 846 810 782 776 763 744 740 737 732 725 723 709 698 696 695 689 682 671 576 5 
+----------------------------------
+A36.dat Results:
+Sum of result: 924205
+This result is optimal? false
+Difference between T and the sum: 75795
+T is: 1000000
+result is: 924205 
+----------------------------------
+A37.dat Results:
+Sum of result: 1977284
+This result is optimal? false
+Difference between T and the sum: 22716
+T is: 2000000
+result is: 912844 571225 256885 236330 
+----------------------------------
+A38.dat Results:
+Sum of result: 2917391
+This result is optimal? false
+Difference between T and the sum: 82609
+T is: 3000000
+result is: 961289 889580 857975 208547 
+----------------------------------
+A39.dat Results:
+Sum of result: 3957197
+This result is optimal? false
+Difference between T and the sum: 42803
+T is: 4000000
+result is: 973211 957470 865641 751305 409570 
+----------------------------------
+A40.dat Results:
+Sum of result: 4992876
+This result is optimal? false
+Difference between T and the sum: 7124
+T is: 5000000
+result is: 991683 845100 822281 783195 699102 644128 207387 
+----------------------------------
+A41.dat Results:
+Sum of result: 5998526
+This result is optimal? false
+Difference between T and the sum: 1474
+T is: 6000000
+result is: 984530 927931 909527 834612 671382 671368 586806 367790 44580 
+----------------------------------
+A42.dat Results:
+Sum of result: 6971686
+This result is optimal? false
+Difference between T and the sum: 28314
+T is: 7000000
+result is: 990205 969603 940446 877090 869032 790508 769363 736933 28506 
+----------------------------------
+A43.dat Results:
+Sum of result: 7936413
+This result is optimal? false
+Difference between T and the sum: 63587
+T is: 8000000
+result is: 994021 960531 948201 941528 909970 905224 891129 870254 515555 
+----------------------------------
+A44.dat Results:
+Sum of result: 8990946
+This result is optimal? false
+Difference between T and the sum: 9054
+T is: 9000000
+result is: 937675 929662 893785 857816 852629 837842 744485 706697 702996 551738 551290 424331 
+----------------------------------
+A45.dat Results:
+Sum of result: 9995631
+This result is optimal? false
+Difference between T and the sum: 4369
+T is: 10000000
+result is: 976905 907986 892051 879422 869360 866391 857032 838389 830417 830414 778459 468805 
+----------------------------------
+A46.dat Results:
+Sum of result: 10984342
+This result is optimal? false
+Difference between T and the sum: 15658
+T is: 11000000
+result is: 983394 968438 950271 909931 908613 842081 831594 814984 790964 788495 771402 744696 611706 67773 
+----------------------------------
+A47.dat Results:
+Sum of result: 11973478
+This result is optimal? false
+Difference between T and the sum: 26522
+T is: 12000000
+result is: 979154 975598 972012 963915 939166 888065 873445 863430 825101 815661 804740 770111 743646 552028 7406 
+----------------------------------
+A48.dat Results:
+Sum of result: 12999292
+This result is optimal? false
+Difference between T and the sum: 708
+T is: 13000000
+result is: 992898 926465 910642 908810 900018 887471 875974 835034 823220 815551 807325 777439 772308 772258 765089 228790 
+----------------------------------
+A49.dat Results:
+Sum of result: 13996514
+This result is optimal? false
+Difference between T and the sum: 3486
+T is: 14000000
+result is: 994940 961231 946098 929745 925192 891245 886935 880393 869748 866420 856180 851922 821434 797309 776631 732050 4648 4393 
+----------------------------------
+A50.dat Results:
+Sum of result: 14995487
+This result is optimal? false
+Difference between T and the sum: 4513
+T is: 15000000
+result is: 969690 969247 967275 936720 929223 927249 881166 874413 855267 851484 832903 830789 820978 819219 796762 745501 741566 246035 
+----------------------------------
+A51.dat Results:
+Sum of result: 15999144
+This result is optimal? false
+Difference between T and the sum: 856
+T is: 16000000
+result is: 990451 990350 987941 986348 947956 943320 889731 870924 843060 826415 817481 794164 777661 771516 736098 724169 722672 717137 650264 11486 
+----------------------------------
+A52.dat Results:
+Sum of result: 16996192
+This result is optimal? false
+Difference between T and the sum: 3808
+T is: 17000000
+result is: 967635 929794 867333 863831 858974 844037 836511 835870 812486 809978 801577 755181 712682 672329 661892 637023 632626 624478 623172 598607 590360 585240 474576 
+----------------------------------
+A53.dat Results:
+Sum of result: 17999866
+This result is optimal? false
+Difference between T and the sum: 134
+T is: 18000000
+result is: 998835 993480 978869 971383 953451 951159 908853 875856 875547 850718 836372 829936 816057 758990 732388 729129 720476 690126 689899 684769 672663 476662 4248 
+----------------------------------
+A54.dat Results:
+Sum of result: 18998387
+This result is optimal? false
+Difference between T and the sum: 1613
+T is: 19000000
+result is: 996979 995217 994577 990142 984198 983970 927808 911249 905616 896175 893055 869950 855065 853750 847486 840301 826819 826406 822530 778368 770516 228210 
+----------------------------------
+A55.dat Results:
+Sum of result: 19999837
+This result is optimal? false
+Difference between T and the sum: 163
+T is: 20000000
+result is: 996516 980120 971384 939591 910109 887771 883994 880290 876125 860167 858020 848114 836787 812425 790258 784165 783983 783910 779597 760260 727901 721794 701551 624732 273 
+----------------------------------
+A56.dat Results:
+Sum of result: 20979614
+This result is optimal? false
+Difference between T and the sum: 20386
+T is: 21000000
+result is: 961414 937985 918128 891975 890059 865867 857862 849311 848509 847911 845781 821644 808752 795469 770034 769566 769348 752846 752419 746725 741150 733612 732931 730756 699792 639768 
+----------------------------------
+A57.dat Results:
+Sum of result: 21994394
+This result is optimal? false
+Difference between T and the sum: 5606
+T is: 22000000
+result is: 993074 978784 975347 967451 966930 958932 952193 951472 930082 929440 922394 914681 912734 903184 889654 874693 869993 857674 849366 820407 796486 763686 762558 747313 490280 15586 
+----------------------------------
+A58.dat Results:
+Sum of result: 22990741
+This result is optimal? false
+Difference between T and the sum: 9259
+T is: 23000000
+result is: 997233 996234 977847 968296 961693 950230 926202 898444 895596 893070 888504 886251 845647 843343 819315 790541 776039 757175 748944 744599 744417 725757 722212 718065 700470 688191 652382 471089 2955 
+----------------------------------
+A59.dat Results:
+Sum of result: 23988577
+This result is optimal? false
+Difference between T and the sum: 11423
+T is: 24000000
+result is: 998212 995889 991797 985750 958628 948924 946035 937991 937379 930288 928439 922009 912774 903234 901148 900258 886194 878256 876959 871682 866331 865033 857241 840770 835430 819527 292399 
+----------------------------------
+A60.dat Results:
+Sum of result: 24992728
+This result is optimal? false
+Difference between T and the sum: 7272
+T is: 25000000
+result is: 999354 987013 937887 921894 919989 897632 891798 888632 884215 875977 844443 835611 829005 816920 813738 805940 805789 782693 780847 775507 773797 771142 757343 756386 753050 752923 745802 744389 743854 735829 156853 5073 1403 
+----------------------------------
+A61.dat Results:
+Sum of result: 961611990
+This result is optimal? false
+Difference between T and the sum: 38388010
+T is: 1000000000
+result is: 961611990 
+----------------------------------
+A62.dat Results:
+Sum of result: 1975303514
+This result is optimal? false
+Difference between T and the sum: 24696486
+T is: 2000000000
+result is: 673001927 443216019 402053874 388332305 68699389 
+----------------------------------
+A63.dat Results:
+Sum of result: 2925553269
+This result is optimal? false
+Difference between T and the sum: 74446731
+T is: 3000000000
+result is: 965765985 964579877 876672827 118534580 
+----------------------------------
+A64.dat Results:
+Sum of result: 3935864385
+This result is optimal? false
+Difference between T and the sum: 64135615
+T is: 4000000000
+result is: 991836176 989401531 983833508 788681021 182112149 
+----------------------------------
+A65.dat Results:
+Sum of result: 4989367693
+This result is optimal? false
+Difference between T and the sum: 10632307
+T is: 5000000000
+result is: 906025283 894016037 869242378 757530971 708639889 596125019 257788116 
+----------------------------------
+A66.dat Results:
+Sum of result: 5957619747
+This result is optimal? false
+Difference between T and the sum: 42380253
+T is: 6000000000
+result is: 992525743 976191330 926396568 848470803 826969986 755382130 616938622 14744565 
+----------------------------------
+A67.dat Results:
+Sum of result: 6978764514
+This result is optimal? false
+Difference between T and the sum: 21235486
+T is: 7000000000
+result is: 981744014 946429594 930726296 927639974 919492162 904950680 898244415 469537379 
+----------------------------------
+A68.dat Results:
+Sum of result: 7986189571
+This result is optimal? false
+Difference between T and the sum: 13810429
+T is: 8000000000
+result is: 964449523 823958876 816727051 809552047 762733695 753393869 737391631 733681700 722554680 701426563 131206302 29113634 
+----------------------------------
+A69.dat Results:
+Sum of result: 8995856905
+This result is optimal? false
+Difference between T and the sum: 4143095
+T is: 9000000000
+result is: 960596011 960349752 944295284 922047338 919973590 894669450 838861402 820211577 788019383 746680427 150473482 49679209 
+----------------------------------
+A70.dat Results:
+Sum of result: 9993943687
+This result is optimal? false
+Difference between T and the sum: 6056313
+T is: 10000000000
+result is: 996523885 944373666 916187819 907818928 893013303 870737282 860435593 845963583 834737460 801803110 786081587 302886923 33380548 
+----------------------------------
+A71.dat Results:
+Sum of result: 10996308460
+This result is optimal? false
+Difference between T and the sum: 3691540
+T is: 11000000000
+result is: 938778106 905763805 902583609 881346051 873389581 866821805 845193285 793807520 786231052 773790345 691447745 683818396 679971821 373365339 
+----------------------------------
+A72.dat Results:
+Sum of result: 11998237674
+This result is optimal? false
+Difference between T and the sum: 1762326
+T is: 12000000000
+result is: 955701832 944100180 934838666 932575213 853213602 830667475 814146422 798074256 796143620 785792068 761035020 708361152 648355355 596300328 583081148 55851337 
+----------------------------------
+A73.dat Results:
+Sum of result: 12998167283
+This result is optimal? false
+Difference between T and the sum: 1832717
+T is: 13000000000
+result is: 986071514 975257016 961709689 948061319 942001278 928585352 903294404 838012741 826976546 825752843 819002215 781028643 775253605 706362485 664331243 116466390 
+----------------------------------
+A74.dat Results:
+Sum of result: 13994045824
+This result is optimal? false
+Difference between T and the sum: 5954176
+T is: 14000000000
+result is: 977525730 954136737 951285742 950019356 946224113 923043507 920974613 906751387 906374635 875597019 863305300 862932842 854744808 849085018 818517428 433527589 
+----------------------------------
+A75.dat Results:
+Sum of result: 14981950050
+This result is optimal? false
+Difference between T and the sum: 18049950
+T is: 15000000000
+result is: 995111119 927622928 902475146 888445701 869847781 853699510 839256011 829969548 827094969 825905567 810065117 779000882 749213507 735647626 733519405 716184923 685904565 675768384 337217361 
+----------------------------------
+A76.dat Results:
+Sum of result: 15987317539
+This result is optimal? false
+Difference between T and the sum: 12682461
+T is: 16000000000
+result is: 999675546 981242609 957052138 950123629 949655119 941211160 938779962 917337827 880151726 869942673 840183726 832667007 827990257 812158561 807514872 783577236 748989809 746192972 170910315 31960395 
+----------------------------------
+A77.dat Results:
+Sum of result: 16991116341
+This result is optimal? false
+Difference between T and the sum: 8883659
+T is: 17000000000
+result is: 967124973 964150913 948376182 935832507 932712720 889468937 841811270 825476863 821719206 797691622 790911519 787211068 765287487 746023075 730729764 703900303 702428179 696414475 675398848 654215451 599221105 215009874 
+----------------------------------
+A78.dat Results:
+Sum of result: 17990414180
+This result is optimal? false
+Difference between T and the sum: 9585820
+T is: 18000000000
+result is: 983129663 959348867 939314996 934008812 921557065 916880305 916676108 914077207 911346093 870245484 841701605 834044731 831954106 790940861 736420834 724720732 722752862 645586315 641113267 637836557 626037815 586514513 104205382 
+----------------------------------
+A79.dat Results:
+Sum of result: 18998188412
+This result is optimal? false
+Difference between T and the sum: 1811588
+T is: 19000000000
+result is: 976782202 951296205 900854197 894757202 883936993 868777353 860264958 850032881 844360251 840438033 824509147 820513955 815785313 803583232 800547278 773878324 758685871 754689264 741065792 732308775 713272570 699220929 695394642 164248351 28984694 
+----------------------------------
+A80.dat Results:
+Sum of result: 19996006553
+This result is optimal? false
+Difference between T and the sum: 3993447
+T is: 20000000000
+result is: 967370726 957888657 936404241 935395465 923085364 913020476 909030428 908598515 879190297 849075562 823597337 811690266 809083572 791532975 776861282 754404880 748771618 737358255 727664879 727336928 724544936 720291865 719747289 701812193 242009363 239184 
+----------------------------------
+A81.dat Results:
+Sum of result: 20995654163
+This result is optimal? false
+Difference between T and the sum: 4345837
+T is: 21000000000
+result is: 999138842 982611615 979445464 978097540 972492774 964614663 943171279 939302161 935278462 926222808 897183924 863461207 858135957 856163879 845990341 822603306 818562902 816659911 785594865 763395958 758845058 743652138 743000819 717629410 82312527 2086353 
+----------------------------------
+A82.dat Results:
+Sum of result: 21997298306
+This result is optimal? false
+Difference between T and the sum: 2701694
+T is: 22000000000
+result is: 975173358 969731179 964218088 961997712 927391382 913504398 911225939 907073456 847858094 819605779 808172519 807330979 801851099 797303873 754228101 746510730 733640801 729791904 717718681 710803874 687559012 685401153 682189508 664053285 654389778 648616273 646039354 523917997 
+----------------------------------
+A83.dat Results:
+Sum of result: 22995617644
+This result is optimal? false
+Difference between T and the sum: 4382356
+T is: 23000000000
+result is: 994837463 991313716 986120770 984946072 976067096 954255699 943318512 941561257 936654251 934125904 933076226 915235256 841990483 840743861 833718872 826790136 819974308 799841968 797997265 786481529 775396245 764291627 757792825 740400173 736202267 735947356 436839191 9697316 
+----------------------------------
+A84.dat Results:
+Sum of result: 23995823400
+This result is optimal? false
+Difference between T and the sum: 4176600
+T is: 24000000000
+result is: 991480084 989177563 986501508 977736616 971293159 969084278 963398401 955553017 950798128 950086867 943380829 934976372 927121167 901401957 898986038 871682752 823428889 822980157 822803532 809357296 804906070 799415058 782346551 766612566 762630551 760479151 757636291 100568552 
+----------------------------------
+A85.dat Results:
+Sum of result: 24976455176
+This result is optimal? false
+Difference between T and the sum: 23544824
+T is: 25000000000
+result is: 989036440 985725457 979622265 977196540 974514085 972541250 936365688 911478496 901183042 891040169 887299340 885228083 879950611 872751434 872356231 870358175 865080087 860058175 845485155 835438579 835352059 834941007 816834251 810005182 809053932 788176932 777664247 767666645 344051619 
+----------------------------------
+A86.dat Results:
+Sum of result: 818
+This result is optimal? false
+Difference between T and the sum: 182
+T is: 1000
+result is: 818 
+----------------------------------
+A87.dat Results:
+Sum of result: 1962
+This result is optimal? false
+Difference between T and the sum: 38
+T is: 2000
+result is: 990 972 
+----------------------------------
+A88.dat Results:
+Sum of result: 2996
+This result is optimal? false
+Difference between T and the sum: 4
+T is: 3000
+result is: 946 456 408 394 388 258 142 4 
+----------------------------------
+A89.dat Results:
+Sum of result: 4000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 4000
+result is: 746 732 718 716 672 414 2 
+----------------------------------
+A90.dat Results:
+Sum of result: 4940
+This result is optimal? false
+Difference between T and the sum: 60
+T is: 5000
+result is: 980 938 930 832 820 440 
+----------------------------------
+A91.dat Results:
+Sum of result: 5996
+This result is optimal? false
+Difference between T and the sum: 4
+T is: 6000
+result is: 892 860 832 808 806 690 662 446 
+----------------------------------
+A92.dat Results:
+Sum of result: 6988
+This result is optimal? false
+Difference between T and the sum: 12
+T is: 7000
+result is: 998 930 884 882 866 758 704 682 278 6 
+----------------------------------
+A93.dat Results:
+Sum of result: 7976
+This result is optimal? false
+Difference between T and the sum: 24
+T is: 8000
+result is: 882 874 870 848 840 816 808 790 762 486 
+----------------------------------
+A94.dat Results:
+Sum of result: 8986
+This result is optimal? false
+Difference between T and the sum: 14
+T is: 9000
+result is: 976 910 836 812 794 778 764 748 730 660 644 334 
+----------------------------------
+A95.dat Results:
+Sum of result: 9962
+This result is optimal? false
+Difference between T and the sum: 38
+T is: 10000
+result is: 980 976 886 840 832 780 774 752 746 738 736 732 190 
+----------------------------------
+A96.dat Results:
+Sum of result: 11000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 11000
+result is: 980 964 924 906 900 846 844 804 772 766 758 754 752 30 
+----------------------------------
+A97.dat Results:
+Sum of result: 11998
+This result is optimal? false
+Difference between T and the sum: 2
+T is: 12000
+result is: 982 960 954 950 912 910 854 836 786 762 750 728 624 614 376 
+----------------------------------
+A98.dat Results:
+Sum of result: 13000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 13000
+result is: 986 984 960 954 940 912 852 836 786 784 736 706 642 604 600 554 164 
+----------------------------------
+A99.dat Results:
+Sum of result: 13996
+This result is optimal? false
+Difference between T and the sum: 4
+T is: 14000
+result is: 1000 988 982 976 968 966 958 888 886 878 864 850 846 826 808 312 
+----------------------------------
+A100.dat Results:
+Sum of result: 14992
+This result is optimal? false
+Difference between T and the sum: 8
+T is: 15000
+result is: 994 922 906 898 896 838 824 816 800 790 778 770 766 748 730 724 720 718 354 
+----------------------------------
+A101.dat Results:
+Sum of result: 15996
+This result is optimal? false
+Difference between T and the sum: 4
+T is: 16000
+result is: 1000 982 974 924 870 858 852 846 824 820 804 786 756 742 732 702 690 656 646 532 
+----------------------------------
+A102.dat Results:
+Sum of result: 16998
+This result is optimal? false
+Difference between T and the sum: 2
+T is: 17000
+result is: 984 982 948 940 938 930 926 902 886 864 818 808 762 686 684 676 670 648 644 636 632 34 
+----------------------------------
+A103.dat Results:
+Sum of result: 17990
+This result is optimal? false
+Difference between T and the sum: 10
+T is: 18000
+result is: 992 988 972 960 940 908 898 894 868 852 842 834 798 786 778 738 734 732 726 718 696 336 
+----------------------------------
+A104.dat Results:
+Sum of result: 18982
+This result is optimal? false
+Difference between T and the sum: 18
+T is: 19000
+result is: 988 984 978 974 968 956 938 936 928 904 864 830 820 812 790 778 758 738 716 714 706 686 216 
+----------------------------------
+A105.dat Results:
+Sum of result: 19982
+This result is optimal? false
+Difference between T and the sum: 18
+T is: 20000
+result is: 998 992 986 958 954 950 942 926 908 906 892 878 864 860 844 836 826 818 808 800 760 750 508 18 
+----------------------------------
+A106.dat Results:
+Sum of result: 20998
+This result is optimal? false
+Difference between T and the sum: 2
+T is: 21000
+result is: 996 990 982 964 954 940 936 916 906 894 892 886 874 866 854 838 836 794 772 748 722 718 702 698 320 
+----------------------------------
+A107.dat Results:
+Sum of result: 22000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 22000
+result is: 996 986 958 954 952 902 878 874 864 836 820 800 792 778 772 752 726 710 694 692 672 668 652 646 636 612 602 598 178 
+----------------------------------
+A108.dat Results:
+Sum of result: 22994
+This result is optimal? false
+Difference between T and the sum: 6
+T is: 23000
+result is: 1000 990 984 974 970 968 966 958 944 936 928 912 908 906 902 898 894 874 860 856 854 852 850 846 842 122 
+----------------------------------
+A109.dat Results:
+Sum of result: 24000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 24000
+result is: 1000 986 972 958 954 946 936 928 926 896 856 850 844 840 838 836 832 782 774 760 758 756 754 746 728 722 714 712 378 18 
+----------------------------------
+A110.dat Results:
+Sum of result: 25000
+This result is optimal? true
+Difference between T and the sum: 0
+T is: 25000
+result is: 986 976 964 924 922 904 890 882 876 864 860 848 838 830 822 814 798 784 770 756 752 744 732 722 720 712 710 698 690 686 526 
